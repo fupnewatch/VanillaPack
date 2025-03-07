@@ -1,7 +1,7 @@
-VanillaPack by Fupnew
+# VanillaPack by Fupnew
 
-Version: 1.20+
-Packs:
+### Version: 1.20+
+### Packs:
 
 ㅤVariatedDirt
 
@@ -48,6 +48,8 @@ Packs:
 ㅤLowerFire
 
 ㅤBetterDamageSound
+
+### More comming soon...
 
 
 More comming soon...
