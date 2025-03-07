@@ -1,56 +1,31 @@
 VanillaPack by Fupnew
 
 Version: 1.20+
-
 Packs:
 
-	VariatedDirt
+ㅤVariatedDirt
+ㅤRandomCoarseDirtRotation
+ㅤVariatedGrass
+ㅤVariatedCobblestone
+ㅤVariatedGravel
+ㅤVariatedPlanks
+ㅤVariatedBookshelves
+ㅤClearerWater
+ㅤQuieterMinecarts
+ㅤStickyPistonSides
+ㅤDirectionalHoppers
+ㅤDirectionalDispensersDroppers
+ㅤBetterObservers
+ㅤRedstonePowerLevels
+ㅤGroovyLevers
+ㅤBrewingGuide
+ㅤAlternateEnchantGlint
+ㅤLowerShield
+ㅤSmallerUtilities
+ㅤUnobtrusiveRain
+ㅤUnobtrusiveSnow
+ㅤLowerFire
+ㅤBetterDamageSound
 
-	RandomCoarseDirtRotation
-
-	VariatedGrass
-
-	VariatedCobblestone
-
-	VariatedGravel
-
-	VariatedPlanks
-
-	VariatedBookshelves
-
-	ClearerWater
-
-	QuieterMinecarts
-
-	StickyPistonSides
-
-	DirectionalHoppers
-
-	DirectionalDispensersDroppers
-
-	BetterObservers
-
-	RedstonePowerLevels
-
-	GroovyLevers
-
-	BrewingGuide
-
-	AlternateEnchantGlint
-
-	LowerShield
-
-	SmallerUtilities
-
-	UnobtrusiveRain
-
-	UnobtrusiveSnow
-
-	LowerFire
-
-	BetterDamageSound
-
-
-
-	Comming soon...
+More comming soon...
 	
