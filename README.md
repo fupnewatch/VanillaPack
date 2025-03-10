@@ -1,37 +1,11 @@
 # VanillaPack by Fupnew
 
-### Version: 1.20+
+### Version: 1.21.x
 ### Packs:
-
-ㅤVariatedDirt
-
-ㅤRandomCoarseDirtRotation
-
-ㅤVariatedGrass
-
-ㅤVariatedCobblestone
-
-ㅤVariatedGravel
-
-ㅤVariatedPlanks
-
-ㅤVariatedBookshelves
 
 ㅤClearerWater
 
 ㅤQuieterMinecarts
-
-ㅤStickyPistonSides
-
-ㅤDirectionalHoppers
-
-ㅤDirectionalDispensersDroppers
-
-ㅤBetterObservers
-
-ㅤRedstonePowerLevels
-
-ㅤGroovyLevers
 
 ㅤBrewingGuide
 
