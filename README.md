@@ -5,8 +5,6 @@
 
 ㅤClearerWater
 
-ㅤQuieterMinecarts
-
 ㅤBrewingGuide
 
 ㅤAlternateEnchantGlint
@@ -22,5 +20,7 @@
 ㅤLowerFire
 
 ㅤBetterDamageSound
+
+ㅤSmallerTallgrass
 
 ### More comming soon...
