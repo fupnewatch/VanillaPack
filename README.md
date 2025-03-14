@@ -3,24 +3,26 @@
 ### Version: 1.21.x
 ### Packs:
 
-ㅤClearerWater
+ㅤClearer Water
 
-ㅤBrewingGuide
+ㅤBrewing Guide
 
-ㅤAlternateEnchantGlint
+ㅤAlternate Enchant Glint
 
-ㅤLowerShield
+ㅤLower Shield
 
-ㅤSmallerUtilities
+ㅤSmaller Utilities
 
-ㅤUnobtrusiveRain
+ㅤUnobtrusive Rain
 
-ㅤUnobtrusiveSnow
+ㅤUnobtrusive Snow
 
-ㅤLowerFire
+ㅤLower Fire
 
-ㅤBetterDamageSound
+ㅤBetter Damage Sound
 
-ㅤSmallerTallgrass
+ㅤSmaller Tallgrass
+
+ㅤ3d Crystals
 
 ### More comming soon...
