@@ -19,6 +19,8 @@
 
 ㅤLower Fire
 
+  Lower GroundFire
+
 ㅤBetter Damage Sound
 
 ㅤSmaller Tallgrass
