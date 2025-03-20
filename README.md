@@ -19,7 +19,7 @@
 
 ㅤLower Fire
 
-  Lower GroundFire
+ㅤLower GroundFire
 
 ㅤBetter Damage Sound
 
